@@ -75,16 +75,16 @@ cad14.si2.iee.nycu.edu.tw:4151
 你會看到 CentOS 7.9 桌面環境與多個捷徑圖示，包括：
 
 - `ADFP`：製程文件夾 
- <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_08.png" width="300" alt="Step 6: ADFP_PDF 圖示" />
+ <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_08.png" width="100" alt="Step 6: ADFP_PDF 圖示" />
 
 - `ADFP_PDF`：浮水印限制文件夾  
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_09.png" width="300" alt="Step 6: Floating_Docs 圖示" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_09.png" width="100" alt="Step 6: Floating_Docs 圖示" />
 
 - `Home`：你的個人資料夾  
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_10.png" width="300" alt="Step 6: Home 圖示" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_10.png" width="100" alt="Step 6: Home 圖示" />
 
 - `Screenshot`：內建截圖工具 
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_11.png" width="300" alt="Step 6: Screenshot 圖示" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_11.png" width="600" alt="Step 6: Screenshot 圖示" />
 雙擊後會出現十字後框，選要擷取的地方，即可將照片擷取至 Picture資料夾
 <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_12.png" width="300" alt="Step 6: Xfce Terminal 圖示" />
 
@@ -101,7 +101,7 @@ cad14.si2.iee.nycu.edu.tw:4151
 
 在桌面按右鍵，打開 Terminal （白色介面），或是桌面捷徑、從Applications -> System Tools -> Xfce Terminal （黑色介面）。
 
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_16.png" width="300" alt="Step 7: Terminal 圖示" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_16.png" width="600" alt="Step 7: Terminal 圖示" />
 在 Terminal 中輸入：
 
 ```
@@ -110,7 +110,7 @@ yes
 
 即可 source 並啟用完整的 EDA Tool 開發環境路徑。
 
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_17.png" width="300" alt="Step 7: Terminal 啟用 EDA Tool" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_17.png" width="600" alt="Step 7: Terminal 啟用 EDA Tool" />
 
 ## 🧼 Step 9：離開遠端桌面的兩種方式
 
@@ -124,7 +124,7 @@ yes
 ⚠️ 請注意: 長時間離線或中斷連線未依流程登出，可能導致下次登入時發生異常。
 因為資源仍在運行中，可能會導致帳號鎖住或資源卡住！！
 
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_18.png" width="300" alt="Step 9 畫面：關閉遠端桌面" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_18.png" width="600" alt="Step 9 畫面：關閉遠端桌面" />
 
 
 ### ✅ 方法二：正確登出系統（關閉所有程式）
@@ -134,7 +134,7 @@ yes
 
 ⚠️ 請務必在每次使用完畢後Log Out 來確保連線品質
 
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_19.png" width="300" alt="Step 9 畫面：登出系統" />
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/06_Remote_Desktop_V2/images/remote_19.png" width="600" alt="Step 9 畫面：登出系統" />
 
 
 🔌 Step 10：中斷 VPN 以恢復一般網路
