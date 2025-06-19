@@ -20,8 +20,7 @@
 
 依照你的電腦系統（Windows 64 位元），下載對應版本的安裝檔案。
 
-📷  
-![Step 2 畫面](./images/antivirus_02.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/03_Antivirus_Setup/images/antivirus_02.png" width="300" alt="忘記密碼" />
 
 ---
 
@@ -31,7 +30,7 @@
 2. 選擇預設路徑與設定
 3. 依照畫面指示安裝完成
 
-![Step 3 安裝畫面](./images/antivirus_01.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/03_Antivirus_Setup/images/antivirus_01.png" width="300" alt="忘記密碼" />
 
 ---
 
