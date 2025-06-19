@@ -32,7 +32,6 @@
 
 - 點選「選擇檔案」並上傳**助教提供的課程專屬金鑰 (.key) 檔案**
 - 點選「下一步」
-![Step 3 畫面 ](./images/activation_21.png)
 <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_21.png" width="600" alt="Step 3 畫面" />
 
 ⚠️ 若出現錯誤，請檢查以下可能：
