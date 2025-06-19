@@ -25,7 +25,6 @@
 4. 其他必要資訊（如：姓名、學號、系所等）
 5. 電子郵件地址（非常重要，請確認無誤，未來密碼重設將使用此信箱）
 
-![Step 2 畫面](./images/activation_02.png)
 <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_02.png" width="600" alt="Step 2 畫面" />
 ---
 
@@ -34,6 +33,8 @@
 - 點選「選擇檔案」並上傳**助教提供的課程專屬金鑰 (.key) 檔案**
 - 點選「下一步」
 ![Step 3 畫面 ](./images/activation_21.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_21.png" width="600" alt="Step 3 畫面" />
+
 ⚠️ 若出現錯誤，請檢查以下可能：
 - 課程代號或帳號輸入錯誤
 ![Step 3 畫面 錯誤1](./images/activation_03.png)
@@ -47,7 +48,7 @@
 ## 📋 Step 4：確認資料是否正確
 
 在進入下一頁前，請再次**檢查你的填寫內容**，確認無誤後再繼續。
-![Step 4 畫面](./images/activation_06.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_06.png" width="600" alt="Step 4 畫面" />
 
 ---
 
@@ -56,7 +57,7 @@
 請完整閱讀 10 條 ADFP Cloud 使用規範，並逐條勾選 ✅  
 這代表你已了解並同意遵守本平台規範。
 
-![Step 5 畫面](./images/activation_07.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_07.png" width="600" alt="Step 5 畫面" />
 
 ---
 
@@ -76,7 +77,7 @@
 3. 預覽確認後，繼續下一步
 
 📷  
-![Step 6 畫面](./images/activation_08.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_08.png" width="600" alt="Step 6 畫面" />
 
 ---
 
@@ -88,7 +89,7 @@
 - 勾選「知悉保密義務」
 - 點選「確認綁定帳號」
 
-![Step 7 畫面](./images/activation_09.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_09.png" width="600" alt="Step 7 畫面" />
 
 ---
 
@@ -99,7 +100,7 @@
 - 點選「顯示密碼」查看帳號與密碼
 - 立即點選「**下載密碼資訊**」以備日後查詢
 
-![Step 8 畫面](./images/activation_10.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_10.png" width="600" alt="Step 8 畫面" />
 
 ---
 
@@ -111,11 +112,11 @@
 ### 更改步驟：
 
 1. 使用預設帳號與密碼登入  
-   ![登入畫面](./images/activation_11.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_11.png" width="600" alt="登入畫面" />
 
 2. 若系統跳出強制更改密碼畫面，請依提示操作  
-   
-   ![修改密碼](./images/activation_12.png)
+
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_12.png" width="600" alt="修改密碼" />
 
 3. 若沒有被要求更改密碼，請在登入後，參考下方「[啟用後修改密碼](#step-12-啟用後修改密碼)」步驟進行密碼變更。
 
@@ -125,14 +126,14 @@
 ## 🆘 Step 10：忘記密碼時怎麼辦？
 
 1. 回到登入頁 → 輸入帳號後點選「忘記密碼」  
-   ![忘記密碼](./images/activation_17.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_17.png" width="600" alt="忘記密碼" />
 
 2. 系統將寄出重設連結至你的信箱
-   ![重設密碼信件](./images/activation_18.png)
-   
-    ![重設密碼畫面](./images/activation_19.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_18.png" width="600" alt="重設密碼信件" />
+
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_19.png" width="600" alt="重設密碼畫面" />
 3. 點擊信件中的連結，即可設定新密碼
-   ![重設密碼畫面](./images/activation_20.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_20.png" width="600" alt="重設密碼畫面" />
 
 ---
 
@@ -159,16 +160,16 @@
 ## 🔑 Step 12：啟用後修改密碼
 
 1. 登入後，點選右上角「個人設定」
-   ![修改密碼 個人設定](./images/activation_13.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_13.png" width="600" alt="修改密碼 個人設定" />
 2. 選擇「修改密碼」
-   ![修改密碼畫面](./images/activation_14.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_14.png" width="600" alt="修改密碼畫面" />
 
 3. 依序輸入：
    - 目前密碼
    - 新密碼
    - 確認密碼  
    並點選「套用」後登出  
-   ![套用新密碼](./images/activation_15.png)
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_15.png" width="600" alt="套用新密碼" />
 
 4. 再次登入時，使用新密碼即可
 
