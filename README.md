@@ -8,7 +8,6 @@
 
  
 為了讓你之後更快找到這份教學資源，請記得：
-
 👉 **到 GitHub 頁面點一下 Star ⭐️ 收藏起來！**
 
 [![GitHub Stars](https://img.shields.io/github/stars/lhlaib/NYCU-ADFP-Server-Tutorial.svg?style=social)](https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial)   [![GitHub Follow](https://img.shields.io/github/followers/lhlaib?label=Follow&style=social)](https://github.com/lhlaib)
