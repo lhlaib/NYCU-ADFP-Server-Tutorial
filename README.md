@@ -2,6 +2,16 @@
 
 🎓 本教學資源提供給首次使用 [ADFP Cloud 2.0](https://adfp.account.si2.iee.nycu.edu.tw:5001/) 的學生與教師，涵蓋帳號啟用、VPN連線、防毒設定、遠端桌面操作、EDA Tool 使用與伺服器空間管理等主題。
 
+## ⭐️ 收藏教學筆記
+
+覺得這份筆記對你有幫助嗎？  
+為了讓你之後更快找到這份教學資源，請記得：
+👉 **到 GitHub 頁面點一下 Star ⭐️ 收藏起來！**
+
+[![GitHub Stars](https://img.shields.io/github/stars/lhlaib/NYCU-ADFP-Server-Tutorial.svg?style=social)](https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial)  
+[![GitHub Follow](https://img.shields.io/github/followers/lhlaib?label=Follow&style=social)](https://github.com/lhlaib)
+
+
 ---
 
 ## 📚 教學章節目錄
