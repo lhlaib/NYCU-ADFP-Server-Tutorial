@@ -12,7 +12,7 @@
 
 你會看到如下畫面，準備輸入個人啟用資料：  
 ![Step 1 畫面](./images/activation_01.png)
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/01_Account_Activation/images/activation_01.png" width="600"/>
+<img src="blob/main/01_Account_Activation/images/activation_01.png" width="600"/>
 
 ---
 
