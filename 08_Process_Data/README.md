@@ -125,3 +125,13 @@ c
 * * *
 
 📘 返回 [主教學首頁](../README.md)
+
+➡️ 下一章節：
+[09 | FTP 檔案上傳](../09_FTP_Upload/README.md)
+
+
+⬅️ 上一章節： ADFP Cloud 2.0：
+[06 | 連線：ADFP Cloud 2.0 遠端桌面教學](../06_Remote_Desktop_V2/README.md)
+
+⬅️ 上一章節： ADFP Cloud 3.0：
+[07 | 連線：ADFP Cloud 3.0 遠端桌面教學](../07_Remote_Desktop_V3/README.md)

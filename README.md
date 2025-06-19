@@ -15,7 +15,7 @@
 | 04 | 安裝：VPN軟體 | 👉 [FortiClient VPN 設定](./04_VPN_Setup/) |
 | 05 | 連線：VPN 連線教學 | 👉 [VPN 連線教學](./05_VPN_Connection/) |
 | 06 | 連線：ADFP Cloud 2.0 遠端桌面教學 | 👉 [2.0 XRDP 使用說明](./06_Remote_Desktop_V2/) |
-| 07 | 連線：ADFP Cloud 3.0 遠端桌面教學 | 👉 [3.0 XRDP 使用說明](./07_Remote_Desktop/) |
+| 07 | 連線：ADFP Cloud 3.0 遠端桌面教學 | 👉 [3.0 XRDP 使用說明](./07_Remote_Desktop_V3/) |
 | 08 | 製程資料存取 | 👉 [FinFET 資料夾與文件位置](./08_Process_Data/) |
 | 09 | FTP 檔案上傳 | 👉 [檔案上傳說明](./09_FTP_Upload/) |
 | 10 | ADFP Chat 問答系統 | 👉 [課程討論、學生檔案繳交](./10_Chat_System/) |

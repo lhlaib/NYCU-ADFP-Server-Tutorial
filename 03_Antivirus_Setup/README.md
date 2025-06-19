@@ -43,3 +43,9 @@
 ---
 
 📘 返回 [主教學首頁](../README.md)
+
+➡️ 下一章節：
+[04 | 安裝：VPN軟體](../04_VPN_Setup/README.md)
+
+⬅️ 上一章節：
+[02 | 設定：Windows 安全性](../02_Windows_Security/README.md)

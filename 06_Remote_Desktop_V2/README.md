@@ -154,6 +154,12 @@ yes
 | 長時間使用 | 請確認已改用 meaningful 程式名（勿用 a.out） |
 | 無法登入 | 檢查是否未中斷上次連線，或詢問助教協助 reset |
 
-
+---
 
 📘 返回 [主教學首頁](../README.md)
+
+➡️ 下一章節：
+[08 | 製程資料存取](../08_Process_Data/README.md)
+
+⬅️ 上一章節：
+[05 | 連線：VPN 連線教學](../05_VPN_Connection/README.md)

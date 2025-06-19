@@ -59,3 +59,8 @@
 
 📘 返回 [主教學首頁](../README.md)
 
+➡️ 下一章節：
+[05 | 連線：VPN 連線教學](../05_VPN_Connection/README.md)
+
+⬅️ 上一章節：
+[03 | 安裝：防毒軟體](../03_Antivirus_Setup/README.md)
