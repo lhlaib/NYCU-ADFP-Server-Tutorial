@@ -70,3 +70,6 @@ ADFP Cloud 2.0 僅供修課學生與教師於教學期間使用，使用者需�
 ---
 
 📘 回到 [主目錄](../README.md)
+
+➡️ 下一章節：
+[01 | 啟用：帳號啟用](../01_Account_Activation/README.md)
