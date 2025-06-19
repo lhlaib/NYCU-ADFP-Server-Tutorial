@@ -9,16 +9,17 @@
 | 章節 | 主題 | 內容連結 |
 |------|------|-----------|
 | 00 | 使用規範與注意事項 | 👉 [使用政策與基本限制](./00_Rules_and_Policy/) |
-| 01 | 帳號啟用 | 👉 [啟用流程、密碼修改](./01_Account_Activation/) |
-| 02 | 防毒軟體安裝 | 👉 [Windows Apex One 教學](./02_Antivirus_Setup/) |
-| 03 | VPN 安裝設定 | 👉 [FortiClient VPN 設定](./03_VPN_Setup/) |
-| 04 | Windows 安全設定 | 👉 [密碼設定、自動鎖定教學](./04_Windows_Security/) |
-| 05 | 遠端桌面連線 | 👉 [XRDP 使用說明](./05_Remote_Desktop/) |
-| 06 | 製程資料存取 | 👉 [FinFET 資料夾與文件位置](./06_Process_Data/) |
-| 07 | EDA Tool 使用 | 👉 [Cadence, Synopsys 指令與 .tcshrc 設定](./07_EDA_Usage/) |
-| 08 | 使用小技巧 | 👉 [quota 管理、伺服器切換技巧](./08_Tips_and_Quota/) |
-| 09 | FTP 檔案上傳 | 👉 [安全資料上傳說明](./09_FTP_Upload/) |
-| 10 | ADFP Chat 問答系統 | 👉 [私密頻道、標籤提問與討論串](./10_Chat_System/) |
+| 01 | 啟用：帳號啟用 | 👉 [啟用流程、密碼修改](./01_Account_Activation/) |
+| 02 | 設定：Windows 安全性 | 👉 [密碼設定、自動鎖定教學](./02_Windows_Security/) |
+| 03 | 安裝：防毒軟體 | 👉 [Windows Apex One 教學](./03_Antivirus_Setup/) |
+| 04 | 安裝：VPN軟體 | 👉 [FortiClient VPN 設定](./04_VPN_Setup/) |
+| 05 | 連線：VPN 連線教學 | 👉 [VPN 連線教學](./05_VPN_Connection/) |
+| 06 | 連線：ADFP Cloud 2.0 遠端桌面教學 | 👉 [2.0 XRDP 使用說明](./06_Remote_Desktop_V2/) |
+| 07 | 連線：ADFP Cloud 3.0 遠端桌面教學 | 👉 [3.0 XRDP 使用說明](./07_Remote_Desktop/) |
+| 08 | 製程資料存取 | 👉 [FinFET 資料夾與文件位置](./08_Process_Data/) |
+| 09 | FTP 檔案上傳 | 👉 [檔案上傳說明](./09_FTP_Upload/) |
+| 10 | ADFP Chat 問答系統 | 👉 [課程討論、學生檔案繳交](./10_Chat_System/) |
+| 11 | 校外 VPN 設定教學 | 👉 [校外 VPN 連線設定](./11_OffCampus_VPN/) |
 
 ---
 
