@@ -1,14 +1,21 @@
 # NYCU-ADFP-Server-Tutorial
 
-這份教學是專門為交大修習 ADFP 課程的同學所設計的「一站式入門指南」。 無論你是第一次碰 VPN、搞不定遠端桌面，還是不知道什麼是 ADFP，只要按照這份教學逐步操作，能讓你從帳號啟用 → VPN 連線 → 繳交作業，都能**無痛上手、完成課程任務**
+這份教學是專門為交大修習 ADFP 課程的同學所設計的「一站式入門指南」。 
+
+無論你是第一次碰 VPN、搞不定遠端桌面，還是不知道什麼是 ADFP，只要按照這份教學逐步操作，能讓你從帳號啟用 → VPN 連線 → 繳交作業，都能**無痛上手、完成課程任務**
 
 ## ⭐️ 收藏教學筆記
 
  
 為了讓你之後更快找到這份教學資源，請記得：
+
 👉 **到 GitHub 頁面點一下 Star ⭐️ 收藏起來！**
 
 [![GitHub Stars](https://img.shields.io/github/stars/lhlaib/NYCU-ADFP-Server-Tutorial.svg?style=social)](https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial)   [![GitHub Follow](https://img.shields.io/github/followers/lhlaib?label=Follow&style=social)](https://github.com/lhlaib)
+
+## 📢 加入社群
+為了讓你能隨時獲得最新公告、問題解答與技術支援，請務必加入我們的 Discord 社群：
+👉 [ADFP Cloud Discord 社群](https://discord.gg/3HF8b8WDju)
 
 ---
 
@@ -68,7 +75,6 @@ ADFP（Advanced Design Flow Platform）是 TSMC 提供的 16nm FinFET 製程（N
 請務必加入官方 Discord 伺服器接收公告與回報問題：
 👉 https://discord.gg/3HF8b8WDju
 
-
 > 📢 **請所有同學與課程助教務必加入 Discord 社群**，以便即時接收如「伺服器重啟」、「停機維護」、「帳號公告」等通知。此類資訊僅會透過 Discord 公告，不再另外寄送 Email 通知。
 
 🚫 請注意以下事項：
@@ -88,15 +94,14 @@ ADFP（Advanced Design Flow Platform）是 TSMC 提供的 16nm FinFET 製程（N
 
 📣 **請課程助教協助提醒修課同學盡快加入 Discord 社群**。
 
-## 🚀 快速連結 & 運算資源
+## 🚀 快速連結
 
 | 類別 | 連結 |
 |------|------|
-| 🌐 ADFP Cloud 入口 | [https://adfp.account.si2.iee.nycu.edu.tw:5001/](https://adfp.account.si2.iee.nycu.edu.tw:5001/) |
-| 🔐 VPN Chat 登入 | [https://adfp.account.si2.iee.nycu.edu.tw:20001/](https://adfp.account.si2.iee.nycu.edu.tw:20001/) |
-| 📂 FTP Server 上傳位置 | `/home/你的帳號/Submit/` |
-
-
+| ADFP 帳號系統 | [https://account.adfp.iee.nycu.edu.tw:5001/](https://account.adfp.iee.nycu.edu.tw:5001/) |
+| ADFP Chat | [https://account.adfp.iee.nycu.edu.tw:20001/](https://account.adfp.iee.nycu.edu.tw:20001/) |
+| 實驗室官網 | [https://iclab.iee.nycu.edu.tw/iclab/](https://iclab.iee.nycu.edu.tw/iclab/) |
+| 帳號申請系統 | [https://iclab.iee.nycu.edu.tw/iclab/apply_system/apply.php/](https://iclab.iee.nycu.edu.tw/iclab/apply_system/apply.php) |
 
 ---
 
@@ -118,11 +123,11 @@ ADFP（Advanced Design Flow Platform）是 TSMC 提供的 16nm FinFET 製程（N
 
 | 區域     | 伺服器 CPU / Core / Clock        | Memory | SSD         | VM 數量與配置             |
 |----------|----------------------------------|--------|-------------|----------------------------|
-| 課程區   | AMD 9654 (192C, 3.55GHz)         | 1TB    | 30.72TB SSD | 4 × VM（100C / 400GB）     |
+| 課程區   | AMD 9654 (192C, 3.55GHz)   × 3      | 1TB    | 30.72TB SSD | 4 × VM（100C / 400GB）     |
 |          |                                  |        |             | 2 × TA-VM（100C / 400GB）  |
-| 研究區   | AMD 9474F (96C, 3.95GHz) × 3      | 1TB    | 30.72TB SSD | 4 × VM（100C / 400GB）     |
+| 研究區   | AMD 9474F (96C, 3.95GHz) × 4      | 1TB    | 30.72TB SSD | 4 × VM（100C / 400GB）     |
 |          |                                  |        |             | 2 × TA-VM（100C / 400GB）  |
-| 資料 VM  | –                                | 100GB  | 40TB SSD    | 存放 N16/N7 資料與授權     |
+| 資料 VM  | –                                | 100GB  | 80TB SSD    | 存放 ADFP 資料與授權     |
 
 > 💡 ADFP Cloud 3.0 採用 CUBE OS HCI 架構，支援 snapshot 快照、SFTP 安全傳輸、跨 VM 快速部署，為研究與教學提供穩定彈性的資源配置。
 
