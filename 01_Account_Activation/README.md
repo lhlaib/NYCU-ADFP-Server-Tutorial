@@ -162,8 +162,11 @@
 ## 🔑 Step 12：啟用後修改密碼
 
 1. 登入後，點選右上角「個人設定」
+   
    <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_13.png" width="600" alt="修改密碼 個人設定" />
+
 2. 選擇「修改密碼」
+   
    <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_14.png" width="600" alt="修改密碼畫面" />
 
 3. 依序輸入：
@@ -171,6 +174,7 @@
    - 新密碼
    - 確認密碼  
    並點選「套用」後登出  
+   
    <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_15.png" width="600" alt="套用新密碼" />
 
 4. 再次登入時，使用新密碼即可
