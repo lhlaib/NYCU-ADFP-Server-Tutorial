@@ -10,7 +10,7 @@
 請開啟瀏覽器，前往 Fortinet 官方網站：  
 👉 https://www.fortinet.com/tw/support/product-downloads
 
-![Step 1 畫面：VPN 官方下載頁面](./images/vpn_01.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/04_VPN_Setup/images/vpn_01.png" width="300" alt="Step 1 畫面：VPN 官方下載頁面" />
 
 ---
 
@@ -23,7 +23,7 @@
 
 ⚠️ 請**務必選擇「FortiClient VPN」版本**，而非包含防火牆、端點防護的完整版。
 
-![Step 2 畫面：選擇 VPN 版本](./images/vpn_02.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/04_VPN_Setup/images/vpn_02.png" width="300" alt="Step 2 畫面：選擇 VPN 版本" />
 
 ---
 
@@ -33,7 +33,7 @@
 2. 按照畫面指示安裝（選擇預設值即可）  
 3. 安裝完成後，桌面會出現 FortiClient 圖示
 
-![Step 3 畫面：安裝畫面](./images/vpn_03.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/04_VPN_Setup/images/vpn_03.png" width="300" alt="Step 3 畫面：安裝畫面" />
 
 ---
 
