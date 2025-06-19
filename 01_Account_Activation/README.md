@@ -134,6 +134,7 @@
    <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_19.png" width="500" alt="重設密碼畫面" />
 
 3. 點擊信件中的連結，即可設定新密碼
+   
    <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_20.png" width="500" alt="重設密碼畫面" />
 
 ---
