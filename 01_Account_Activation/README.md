@@ -11,8 +11,7 @@
 👉 http://ee20.si2.iee.nycu.edu.tw:8080/
 
 你會看到如下畫面，準備輸入個人啟用資料：  
-![Step 1 畫面](./images/activation_01.png)
-<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_01.png" width="600"/>
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_01.png" width="600" alt="Step 1 畫面" />
 
 ---
 
@@ -27,7 +26,7 @@
 5. 電子郵件地址（非常重要，請確認無誤，未來密碼重設將使用此信箱）
 
 ![Step 2 畫面](./images/activation_02.png)
-
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_02.png" width="600" alt="Step 2 畫面" />
 ---
 
 ## 🗝️ Step 3：上傳金鑰檔案以進行身分驗證
