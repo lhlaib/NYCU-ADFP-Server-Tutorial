@@ -15,7 +15,7 @@
 ### 📢 加入社群
 為了讓你能隨時獲得最新公告、問題解答與技術支援，請務必加入我們的 Discord 社群：
 
-👉 [ADFP Cloud Discord 社群](https://discord.gg/3HF8b8WDju)
+👉 [ADFP Cloud Discord 社群](https://discord.gg/3HF8b8WDju) | [Discord 教學](./12_Discord_Community/README.md)
 
 ---
 
