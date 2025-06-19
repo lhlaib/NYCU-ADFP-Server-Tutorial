@@ -20,7 +20,8 @@
 1. 開啟 FortiClient VPN 軟體  
 2. 點選 `Configure VPN` 建立新連線
 
-![Step 2 畫面](./images/vpn_conn_01.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/05_VPN_Connection/images/vpn_conn_01.png" width="300" alt="Step 2 畫面" />
+
 
 ---
 
@@ -51,7 +52,7 @@
 | **Username** | 你的 ADFP VPN 帳號 |
 | **Password** | 你的 ADFP VPN 密碼（啟用系統取得） |
 
-![Step 3 畫面：連線參數設定](./images/vpn_conn_02.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/05_VPN_Connection/images/vpn_conn_02.png" width="300" alt="Step 3 畫面：連線參數設定" />
 
 ---
 
@@ -59,8 +60,8 @@
 
 點選「Connect」後，VPN 將開始驗證與連線程序。
 
-📷  
-![Step 4 畫面](./images/vpn_conn_03.png)
+
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/05_VPN_Connection/images/vpn_conn_03.png" width="300" alt="Step 4 畫面" />
 
 ---
 
@@ -70,8 +71,8 @@
 
 ⚠️ 若未按「Yes」，VPN 將會卡住無法完成連線！
 
-📷  
-![Step 5 畫面：確認提示](./images/vpn_conn_04.png)
+
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/05_VPN_Connection/images/vpn_conn_04.png" width="300" alt="Step 5 畫面：確認提示" />
 
 ---
 
@@ -82,7 +83,7 @@
 ⚠️ **連上 VPN 後將無法使用一般網路（如 YouTube、Google 等）**  
 若需使用外部網路，請記得「中斷 VPN」後再操作。
 
-![Step 6 畫面：連線成功](./images/vpn_conn_05.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/05_VPN_Connection/images/vpn_conn_05.png" width="300" alt="Step 6 畫面：連線成功" />
 
 ---
 
@@ -111,7 +112,7 @@
 - 在 FortiClient 主畫面點選「Disconnect」即可結束連線
 - VPN 結束後將恢復一般網路功能
 
-![Step 8 畫面：連線狀態](./images/vpn_conn_06.png)
+<img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/05_VPN_Connection/images/vpn_conn_06.png" width="300" alt="Step 8 畫面：連線狀態" />
 
 ---
 
