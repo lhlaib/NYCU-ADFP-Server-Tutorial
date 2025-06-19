@@ -115,7 +115,7 @@
 
 2. 若系統跳出強制更改密碼畫面，請依提示操作  
 
-   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_12.png" width="600" alt="修改密碼" />
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_12.png" width="300" alt="修改密碼" />
 
 3. 若沒有被要求更改密碼，請在登入後，參考下方「[啟用後修改密碼](#step-12-啟用後修改密碼)」步驟進行密碼變更。
 
@@ -125,12 +125,14 @@
 ## 🆘 Step 10：忘記密碼時怎麼辦？
 
 1. 回到登入頁 → 輸入帳號後點選「忘記密碼」  
-   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_17.png" width="600" alt="忘記密碼" />
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_17.png" width="300" alt="忘記密碼" />
 
 2. 系統將寄出重設連結至你的信箱
-   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_18.png" width="600" alt="重設密碼信件" />
-   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_19.png" width="600" alt="重設密碼畫面" />
    
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_18.png" width="300" alt="重設密碼信件" />
+
+   <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_19.png" width="600" alt="重設密碼畫面" />
+
 3. 點擊信件中的連結，即可設定新密碼
    <img src="https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial/blob/main/01_Account_Activation/images/activation_20.png" width="600" alt="重設密碼畫面" />
 
