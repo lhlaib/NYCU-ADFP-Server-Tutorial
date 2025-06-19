@@ -4,7 +4,7 @@
 
 無論你是第一次碰 VPN、搞不定遠端桌面，還是不知道什麼是 ADFP，只要按照這份教學逐步操作，能讓你從帳號啟用 → VPN 連線 → 繳交作業，都能**無痛上手、完成課程任務**
 
-## ⭐️ 收藏教學筆記
+### ⭐️ 收藏教學筆記
 
  
 為了讓你之後更快找到這份教學資源，請記得：
@@ -13,13 +13,14 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/lhlaib/NYCU-ADFP-Server-Tutorial.svg?style=social)](https://github.com/lhlaib/NYCU-ADFP-Server-Tutorial)   [![GitHub Follow](https://img.shields.io/github/followers/lhlaib?label=Follow&style=social)](https://github.com/lhlaib)
 
-## 📢 加入社群
+### 📢 加入社群
 為了讓你能隨時獲得最新公告、問題解答與技術支援，請務必加入我們的 Discord 社群：
+
 👉 [ADFP Cloud Discord 社群](https://discord.gg/3HF8b8WDju)
 
 ---
 
-## ☁️ 關於 ADFP Cloud 2.0 / 3.0
+### ☁️ 關於 ADFP Cloud 2.0 / 3.0
 
 ADFP（Advanced Design Flow Platform）是 TSMC 提供的 16nm FinFET 製程（N16），是全球第一個 FinFET 虛擬製程教學平台，能與業界技術無縫接軌。
 
@@ -34,7 +35,7 @@ ADFP（Advanced Design Flow Platform）是 TSMC 提供的 16nm FinFET 製程（N
 
 ---
 
-## 📚 教學章節目錄
+### 📚 教學章節目錄
 
 | 章節 | 主題 | 內容連結 |
 |------|------|-----------|
