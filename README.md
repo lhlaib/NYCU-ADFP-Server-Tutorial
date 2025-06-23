@@ -142,6 +142,7 @@ ADFP（Advanced Design Flow Platform）是 TSMC 提供的 16nm FinFET 製程（N
 感謝以下夥伴協助本教學系統的撰寫與維護 🙌
 
 - 賴林鴻（[@lhlaib](https://github.com/lhlaib)）
+- 黃彥允 ([@YY87927](https://github.com/YY87927)
 - 王鈺翔（[@yushinnycu](https://github.com/yushinnycu)）
 - 蕭邦原（[@bonyuan](https://github.com/bonyuan)）
 - 廖展儀（[@ricky-liao](https://github.com/ricky-liao)）
